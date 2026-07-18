@@ -83,4 +83,3 @@ The dashboard provides insights into product pricing, discounts, ratings, stock 
 ## Syed Minhaj Hussain ##
 Aspiring Data Analyst
 
-Aspiring Data Analyst
